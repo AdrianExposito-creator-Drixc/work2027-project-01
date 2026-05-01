@@ -1,0 +1,5 @@
+Total ventas: 70.0
+Total items: 6
+Ventas por producto:
+A,50.0
+B,20.0
